@@ -1,0 +1,28 @@
+Specyfikacja gry:
+1. Typ gry:
+PackMan
+2. Przeznaczenie:
+Gra będzie przeznaczona na komputery stacjonarne.
+3. Środowisko programistyczne
+Eclipse Java Mars
+4. Typ rozgrywki:
+Gra z komputerem
+5. Edytor grafiki:
+GIMP
+1. Materiały:
+Tworzenie elementów gry
+Stworzenie Silnika gry.
+2. Stworzenie grafiki postaci, oraz stworzenie funkcji ruchu.
+3. Stworzenie plików labiryntu , oraz ograniczenie pól ruchu
+4. Tworzenie grafiki labiryntu, oraz dodanie jej do projektu.
+5. Dopracowanie grafiki labiryntu, oraz dodanie usuwania
+zbędnych elementów z planszy.
+6. Stworzenie przeciwników w postaci duchów oraz
+dodanie ich do projektu.
+7. Nadanie funkcji ruchu dla przeciwiników, oraz dodanie
+systemu punktowego za zbierane *tabletki.
+8. Testowanie, oraz wykrywanie ewentualnych błędów.
+9.Naprawa będów oraz poprawa designu.
+Źrudło:
+hĥps://www.youtube.com/channel/UC4ln5dDpxVCVByF58
+WKu1lA
